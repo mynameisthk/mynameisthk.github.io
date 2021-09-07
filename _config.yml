@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "18, GUY WHO LOVES MUSIC, MOVIE & FOOTBALL"
   location         : "대한민국, 용인"
-  email            : "mynameisthk@naver.com
+  email            : "mynameisthk@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
