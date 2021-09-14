@@ -5,6 +5,6 @@ title: "first post"
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+**NICE TO MEET YOU**, https://www.youtube.com/watch?v=UMRjLRuUI2U
 
 I hope you like it!
